@@ -16,7 +16,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.test.context.junit4.SpringRunner;
 
 /**
- * Created by ahmetatalay on 14/01/17.
+ * Created by joe
  */
 
 @RunWith(SpringRunner.class)
